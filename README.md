@@ -173,4 +173,7 @@ To create HTML page for Birthday of a friend.
 
 ```
 Output:
-![1](https://user-images.githubusercontent.com/94692595/230767254-ccf37026-d387-4418-8bed-af0008e72149.jpg)
+![1](https://user-images.githubusercontent.com/94692595/230767286-f08eabec-d7d0-4655-992f-b8e9030a61a1.png)
+
+## Result:
+A Birthsay card has been created using HTML.
